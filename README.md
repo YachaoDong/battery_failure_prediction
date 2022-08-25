@@ -2,7 +2,9 @@
 ![image](https://img.shields.io/badge/license-MIT-green)  
 # 一、项目简介
 本项目应用于IDC机房UPS电池故障预测，首选预测未来一段时间的电压（或其他判断电池故障的指标，如电池内阻），然后再根据业务人员判断是否故障的指标阈值进而判断每个时间点是否为异常值，即该电池在未来哪一个时间点或时间段可能会发生故障。  
-与[该项目一致](https://github.com/vmeta42/metaai) 。
+_与[该项目一致](https://github.com/vmeta42/metaai) 。_  
+_更细节的内容点击[这里](README_detail.md)_
+
 # 二、目录架构
 **meta-42 battery failure prediction**
 
